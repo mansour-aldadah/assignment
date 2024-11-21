@@ -1,0 +1,16 @@
+/* Center the heading on the page */
+h1 {
+  text-align: center;
+}
+
+/* Make the list items bold and green */
+li {
+  font-weight: bold;
+  color: green;
+}
+
+/* Add a 1px border to the list and set the list’s background color to light gray.*/
+ul {
+  border: 1px solid #000;
+  background-color: lightgray;
+}
